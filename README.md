@@ -7,7 +7,7 @@ Technologies: JavaScript,  HTML, CSS
 
 -Demo: https://11olya112.github.io/-2048_game_js/
 
--GitHub: https://github.com/11Olya112/-2048_game_js
+-Preview: https://github.com/11Olya112/-2048_game_js
 
 Additional startup instructions:
 
